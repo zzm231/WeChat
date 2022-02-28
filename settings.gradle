@@ -1,0 +1,4 @@
+include ':app:uikit'
+include ':uikit'
+include ':app'
+rootProject.name = "WeChat"
